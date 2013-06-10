@@ -1,0 +1,20 @@
+Muzima is an onoing project similar to ODK that extends clinical procedures to android devices
+
+Specifically Muzima allows one to Download patients cohorts and observation and in the 
+
+next few days functionallity will extend to registering new patients and filling of forms data such
+
+as lab test.
+
+
+The TB shredder project is one component of  Muzima that will extend openmrs functionallity 
+to android devices.Clinicians will be able to fill digitized lab forms on their android devices
+and the data will be posted to the openmrs.
+
+
+The Forms are based on Xforms and JSON data structure.
+
+
+A JSON payload specification has already been created but not final.
+
+All views and collaboration is welcomed.
